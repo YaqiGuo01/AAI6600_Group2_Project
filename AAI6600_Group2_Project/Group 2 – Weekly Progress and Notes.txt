@@ -1,0 +1,19 @@
+Group 2 – Weekly Progress and Notes
+
+This week:
+
+- We optimized the model so it can now accept direct text input and output the recommended care type with a confidence score.
+- The training dataset has been expanded to 1,000 entries, but we believe it still needs further expansion because there are many care types.
+
+Coordination with other groups:
+
+- Group 3: We communicated our input/output format and made adjustments. Our code also needs to save the final results automatically as a TXT file.
+- Group 1: If they identify people who require care and their code outputs the original text, it would allow smoother integration with our module. As our code may not be very flexible for integration, the specific details will need further discussion.
+（The detailed coordination with all groups will be carried out next week, as the integration work could not be fully completed this week.）
+
+Low confidence explanation:
+
+- The low confidence may be due to the limited size of the training dataset. Further optimization of the model and expansion of the dataset are planned.
+
+I haven’t received emails from Radhika and Sharan yet. This group assignment will continue to be handled by the three of us.
+
