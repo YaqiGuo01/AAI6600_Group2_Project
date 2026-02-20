@@ -1,0 +1,7 @@
+# AAI 6670 — In-Class Coding Exam
+## Embedding Model
+`models/gemini-embedding-001` (Google Gemini Embedding)
+
+## How to Run
+1. Install dependencies: `pip install google-genai scikit-learn matplotlib pandas numpy`
+2. Set your `GOOGLE_API_KEY` in Cell 4, then select **Runtime > Run All**.
